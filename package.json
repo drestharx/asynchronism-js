@@ -1,0 +1,28 @@
+{
+  "name": "asynchronism",
+  "version": "1.0.0",
+  "description": "asincronismo javascript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drestharx/asynchronism-js.git"
+  },
+  "keywords": [
+    "asynchronism",
+    "javascript"
+  ],
+  "author": "huascar mejia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drestharx/asynchronism-js/issues"
+  },
+  "homepage": "https://github.com/drestharx/asynchronism-js#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
